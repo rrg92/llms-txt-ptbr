@@ -1,7 +1,7 @@
 ---
 title: "Arquivo /llms.txt"
 date: 2024-09-03
-author: "Jeremy Howard" (tradução: Rodrigo Ribeiro Gomes)
+author: "Jeremy Howard (tradução: Rodrigo Ribeiro Gomes)"
 description: "Uma proposta para padronizar o uso do arquivo `/llms.txt` que fornece informações para ajudar LLMs a usar um website na hora da inferência"
 image: "/sample.png"
 ---
